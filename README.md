@@ -65,18 +65,17 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<table> <tr> <td align="center" width="50%">
-🚀 Development
-🎨 Frontend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
-⚙️ Backend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
-🗄️ Database
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/> </td> <td align="center" width="50%">
-☁️ Tools & Cloud
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-🚀 Deployment
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="45"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="45"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="45"/> </td> </tr> </table>
+## 🛠️ Tech Stack
+
+| Development Area | Frameworks & Technologies | Tools & Platforms |
+|------------------|--------------------------|------------------|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) |
+| **Styling & UI** | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase) |![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render) | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)|
+
+
 
 
 
