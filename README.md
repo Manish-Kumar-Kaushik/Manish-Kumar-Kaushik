@@ -46,26 +46,29 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </p>
-
+<br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manish-Kumar-kaushik&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manish-Kumar-kaushik&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Kumar-kaushik&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Manish-Kumar-kaushik&theme=radical&hide_border=false"/><br/>
+ 
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manish-Kumar-kaushik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manish-Kumar-kaushik&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Manish-Kumar-kaushik&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack <br>
 
 | Development Area | Frameworks & Technologies | Tools & Platforms |
 |------------------|--------------------------|------------------|
@@ -77,15 +80,78 @@
 
 
 
-
+<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Manish-Kumar-kaushik&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<hr/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Manish-Kumar-kaushik&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Manish-Kumar-kaushik&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h3 align="left">AI/ML , Devops and Others :</h3><hr/>
+<p align="left"> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+</p>
