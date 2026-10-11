@@ -109,6 +109,10 @@
 <!-- Animated Portrait Card (Dynamic Dark & Light Mode) -->
 <div align="center">
 
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;AI+Engineer;SDET+%7C+Test+Automation+Engineer;Python+%7C+Java+%7C+JavaScript;LLMs+%7C+RAG+%7C+MCP+%7C+AI+Agents;Building+Reliable+AI-Powered+Engineering+Systems">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;AI+Engineer;SDET+%7C+Test+Automation+Engineer;Python+%7C+Java+%7C+JavaScript;LLMs+%7C+RAG+%7C+MCP+%7C+AI+Agents;Building+Reliable+AI-Powered+Engineering+Systems" alt="Typing SVG" />
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./portrait_dark.svg?v=20" />
   <source media="(prefers-color-scheme: light)" srcset="./portrait_light.svg?v=20" />
