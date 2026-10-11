@@ -110,9 +110,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./portrait_dark.svg?v=8" />
-  <source media="(prefers-color-scheme: light)" srcset="./portrait_light.svg?v=8" />
-  <img src="./portrait_dark.svg?v=8" width="100%" alt="Manish Kumar Kaushik — Profile Card" />
+  <source media="(prefers-color-scheme: dark)" srcset="./portrait_dark.svg?v=20" />
+  <source media="(prefers-color-scheme: light)" srcset="./portrait_light.svg?v=20" />
+  <img src="./portrait_dark.svg?v=20" width="100%" alt="Manish Kumar Kaushik — Profile Card" />
 </picture>
 
 </div>
